@@ -4,9 +4,14 @@
 
 [click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Basic%20concepts)
 
+## DeepLearning.ai_Notes
+
+[click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/DeepLearning.ai_Notes)
+
 ## TensorFlow
 
 * [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+* [An amazing site: search tensorflow](https://devdocs.io/)
 
 ## 学习资料
 
