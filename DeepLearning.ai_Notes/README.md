@@ -7,6 +7,8 @@ The five courses titles are:
 - [第一周 ：深度学习引言 (Introduction to Deep Learning)](第一周.md)
 
 - [第二周 ：神经网络的编程基础 (Basics of Neural Network programming)](第二周.md)
+
+- [第三周：浅层神经网络(Shallow neural networks)](第三周.md)
 ---
 
 ## 2- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.(改善深层神经网络：超参数调试，正则化和优化)
