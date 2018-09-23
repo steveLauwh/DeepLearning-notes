@@ -16,6 +16,7 @@ The five courses titles are:
 ## 2- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.(改善深层神经网络：超参数调试，正则化和优化)
 
 - [第五周 ：深度学习的实用层面 (Practical aspects of Deep Learning)](第五周.md)
+- [第六周 ：优化算法 (Optimization algorithms)](第六周.md)
 
 ---
 
