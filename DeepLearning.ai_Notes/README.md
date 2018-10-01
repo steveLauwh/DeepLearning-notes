@@ -17,7 +17,7 @@ The five courses titles are:
 
 - [第五周 ：深度学习的实用层面 (Practical aspects of Deep Learning)](第五周.md)
 - [第六周 ：优化算法 (Optimization algorithms)](第六周.md)
-
+- [第七周 ：超参数调试、Batch正则化和程序框架 (Hyperparameter tuning)](第七周.md)
 ---
 
 ## 3- Structuring Machine Learning Projects.(结构化机器学习项目)
