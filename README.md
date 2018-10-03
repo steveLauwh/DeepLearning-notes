@@ -20,6 +20,7 @@
 - [x] MIT 6.S191: Introduction to Deep Learning
 - [x] CS20: Tensorflow for Deep Learning Research
 - [x] Deep Learning Tutorial - 李宏毅
+- [x] Deep Learning for Self-Driving Cars - MIT
 
 
 
