@@ -22,6 +22,8 @@ The five courses titles are:
 
 ## 3- Structuring Machine Learning Projects.(结构化机器学习项目)
 
+- [第八周 ：机器学习策略1 (ML strategy 1)](第八周.md)
+- [第九周 ：机器学习策略2 (ML strategy 2)](第八周.md)
 ---
 
 ## 4- Convolutional Neural Networks.(卷积神经网络)
