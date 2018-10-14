@@ -35,3 +35,8 @@ The five courses titles are:
 ---
 
 ## 5- Sequence Models.(序列模型)
+
+- [第十四周 ：循环序列模型(Recurrent Neural Networks)](第十四周.md)
+- [第十五周 ：自然语言处理与词嵌入(Natural Language Processing and Word Embeddings)](第十五周.md)
+- [第十六周 ：序列模型和注意力机制(Sequence models & Attention mechanism)](第十六周.md)
+
