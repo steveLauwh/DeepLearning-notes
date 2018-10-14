@@ -1,4 +1,4 @@
-﻿# DeepLearning.ai Courses Notes
+# DeepLearning.ai Courses Notes
 
 The five courses titles are:
 
@@ -28,6 +28,10 @@ The five courses titles are:
 
 ## 4- Convolutional Neural Networks.(卷积神经网络)
 
+- [第十周 ：卷积神经网络(Foundations of Convolutional Neural Networks)](第十周.md)
+- [第十一周 ：深度卷积神经网络：实例(Deep convolutional models: case studies)](第十一周.md)
+- [第十二周 ：目标检测(Object detection)](第十二周.md)
+- [第十三周 ：特殊应用-人脸识别和神经风格转换(Special applications: Face recognition & Neural style transfer)](第十三周.md)
 ---
 
 ## 5- Sequence Models.(序列模型)
