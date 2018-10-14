@@ -8,6 +8,8 @@
 
 [Click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/DeepLearning.ai_Notes)
 
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/DeepLearning.ai_Notes/image/DL.PNG)
+
 ## TensorFlow
 
 [Click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
