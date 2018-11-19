@@ -11,3 +11,5 @@
 * [深度学习的三大因素](https://github.com/steveLauwh/DeepLearning-notebook/blob/master/Basic%20concepts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%89%E5%A4%A7%E5%9B%A0%E7%B4%A0.md)
 
 * [逻辑回归(Logistic Regression)](https://github.com/steveLauwh/DeepLearning-notebook/blob/master/Basic%20concepts/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92(Logistic%20Regression).md)
+
+* [梯度下降法](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Basic%20concepts/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.md)
