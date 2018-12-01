@@ -8,6 +8,8 @@
 
 ## [TensorFlow](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
 
+## [PyTorch](https://github.com/steveLauwh/DeepLearning-notes/tree/master/PyTorch)
+
 ## Learning accumulation
 
 - [x] Deep Learning Specialization - Andrew Ng
