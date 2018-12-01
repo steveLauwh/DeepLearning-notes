@@ -1,18 +1,12 @@
 # DeepLearning-notebook
 
-## Basic concepts
+## [Basic concepts](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Basic%20concepts)
 
-[Click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Basic%20concepts)
-
-## DeepLearning.ai_Notes
-
-[Click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/DeepLearning.ai_Notes)
+## [DeepLearning.ai_Notes](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/DeepLearning.ai_Notes)
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/DeepLearning.ai_Notes/image/DL.PNG)
 
-## TensorFlow
-
-[Click here](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
+## [TensorFlow](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
 
 ## Learning accumulation
 
