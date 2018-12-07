@@ -10,14 +10,22 @@
 
 ## [PyTorch](https://github.com/steveLauwh/DeepLearning-notes/tree/master/PyTorch)
 
-## Learning accumulation
+## DL/ML Tutorial
+
+  - [**Hung-yi Lee Machine Learning 2016**](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)<br>
+
+
+
+
+
+## I have done
 
 - [x] Deep Learning Specialization - Andrew Ng
 - [x] CS229: Machine Learning - Andrew Ng
 - [x] CS231n: Convolutional Neural Networks for Visual Recognition
 - [x] MIT 6.S191: Introduction to Deep Learning
 - [x] CS20: Tensorflow for Deep Learning Research
-- [x] Deep Learning Tutorial - 李宏毅
+- [x] Understanding Deep Learning in One Day - Hung-yi Lee
 - [x] Deep Learning for Self-Driving Cars - MIT
 
 
