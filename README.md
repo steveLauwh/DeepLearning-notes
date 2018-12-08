@@ -1,10 +1,14 @@
-# DeepLearning-notebook
+# DeepLearning-notes
 
 ## [Basic concepts](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Basic%20concepts)
 
 ## [DeepLearning.ai_Notes](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/DeepLearning.ai_Notes)
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/DeepLearning.ai_Notes/image/DL.PNG)
+
+## [Hung-yi Lee Machine Learning_Notes](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Hung-yi Lee Machine Learning_Notes)
+
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi Lee Machine Learning_Notes/image/LearningMap.PNG)
 
 ## [TensorFlow](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
 
