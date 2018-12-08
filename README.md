@@ -13,6 +13,7 @@
 ## DL/ML Tutorial
 
   - [**Hung-yi Lee Machine Learning 2016**](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)<br>
+  - [**CS231n: Convolutional Neural Networks for Visual Recognition(Spring 2018)**](http://cs231n.stanford.edu/syllabus.html)
 
 
 
