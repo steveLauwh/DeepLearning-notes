@@ -6,7 +6,7 @@
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/DeepLearning.ai_Notes/image/DL.PNG)
 
-## [Machine Learning Notes](https://github.com/steveLauwh/DeepLearning-notes/tree/master/Hung-yi%20Lee%20Machine%20Learning%20Notes)
+## [Hung-yi Lee Machine Learning Notes](https://github.com/steveLauwh/DeepLearning-notes/tree/master/Hung-yi%20Lee%20Machine%20Learning%20Notes)
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/LearningMap.PNG)
 
