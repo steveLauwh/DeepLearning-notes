@@ -6,9 +6,9 @@
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/DeepLearning.ai_Notes/image/DL.PNG)
 
-## [Hung-yi Lee Machine Learning_Notes](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Hung-yi Lee Machine Learning_Notes)
+## [Machine Learning Notes](https://github.com/steveLauwh/DeepLearning-notes/tree/master/Hung-yi%20Lee%20Machine%20Learning%20Notes)
 
-![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi Lee Machine Learning_Notes/image/LearningMap.PNG)
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/LearningMap.PNG)
 
 ## [TensorFlow](https://github.com/steveLauwh/DeepLearning-notebook/tree/master/Tensorflow)
 
