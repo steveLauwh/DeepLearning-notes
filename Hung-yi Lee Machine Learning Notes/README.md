@@ -15,4 +15,6 @@
 
 ## [1. Regression: Case Study](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/Regression:%20Case%20Study.md)
 
+本节通过 Training 三步骤来介绍 Regression 回归案例。
+
 ## [2. Gradient Descent](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/Gradient%20Descent.md)
