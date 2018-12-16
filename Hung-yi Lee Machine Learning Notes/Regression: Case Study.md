@@ -1,1 +1,16 @@
 ## Regression: Case Study
+
+### Step1: Model
+
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/1.1.PNG)
+
+### Step2: Goodness of Function
+
+假设训练数据是 10 pokemons
+
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/1.2.PNG)
+
+### Step3: Best Function
+
+通过梯度下降 Gradient Descent，使损失函数 Loss function 值最小。
+![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/1.3.PNG)
