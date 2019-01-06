@@ -13,7 +13,7 @@
 
 ![](https://github.com/steveLauwh/DeepLearning-notes/raw/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/image/Framework.PNG)
 
-## [1. Regression: Case Study](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/1.%20Regression:%20Case%20Study.md)
+## [1. Regression: Case Study](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/1.%20Regression-Case%20Study.md)
 
 本节通过 Training 三步骤来介绍 Regression 回归案例。
 
