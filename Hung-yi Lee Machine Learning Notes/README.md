@@ -20,3 +20,7 @@
 ## [2. Gradient Descent](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/2.%20Gradient%20Descent.md)
 
 本节讲解梯度下降的原理。
+
+## [3. Where does the error come from?](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/3.%20Where%20does%20the%20error%20come%20from.md)
+
+本节讲解 Bias and Variance 的影响。
