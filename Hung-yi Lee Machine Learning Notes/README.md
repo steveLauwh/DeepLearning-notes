@@ -28,3 +28,5 @@
 ## [4. Classification: Probabilistic Generative Model](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/4.%20Classification-Probabilistic%20Generative%20Model.md)
 
 本节讲解分类(概率生成模型)。
+
+## [5. Classification: Logistic Regression](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/5.%20Classification-Logistic%20Regression.md)
