@@ -24,3 +24,7 @@
 ## [3. Where does the error come from?](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/3.%20Where%20does%20the%20error%20come%20from.md)
 
 本节讲解 Bias and Variance 的影响。
+
+## [4. Classification: Probabilistic Generative Model](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/4.%20Classification-Probabilistic%20Generative%20Model.md)
+
+本节讲解分类(概率生成模型)。
