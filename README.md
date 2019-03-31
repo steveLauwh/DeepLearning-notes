@@ -14,6 +14,8 @@
 
 ## [PyTorch](https://github.com/steveLauwh/DeepLearning-notes/tree/master/PyTorch)
 
+## [Caffe](https://github.com/steveLauwh/DeepLearning-notes/tree/master/Caffe)
+
 ## DL/ML Tutorial
 
   - [**Hung-yi Lee Machine Learning 2016**](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)<br>
