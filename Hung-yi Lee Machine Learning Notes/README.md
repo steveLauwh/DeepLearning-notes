@@ -36,3 +36,7 @@
 ## [6. Brief Introduction of Deep Learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/6.%20Brief%20Introduction%20of%20Deep%20Learning.md)
 
 本节介绍深度学习。
+
+## [7. Backpropagation](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/7.%20Backpropagation.md)
+
+本节讲解反向传播算法。
