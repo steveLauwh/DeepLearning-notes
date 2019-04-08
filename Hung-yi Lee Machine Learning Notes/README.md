@@ -44,3 +44,7 @@
 ## [8. "Hello world" of deep learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/8.%20Hello%20world%20of%20deep%20learning.md)
 
 本节讲解 Deep learning Toolkit-Keras使用。
+
+## [9. Tips for Deep Learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/9.%20Tips%20for%20deep%20learning.md)
+
+本节讲解 Deep Learning 的 Tips 要点。
