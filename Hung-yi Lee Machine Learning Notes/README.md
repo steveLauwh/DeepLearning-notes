@@ -40,3 +40,7 @@
 ## [7. Backpropagation](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/7.%20Backpropagation.md)
 
 本节讲解反向传播算法。
+
+## [8. "Hello world" of deep learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/8.%20Hello%20world%20of%20deep%20learning.md)
+
+本节讲解 Deep learning Toolkit-Keras使用。
