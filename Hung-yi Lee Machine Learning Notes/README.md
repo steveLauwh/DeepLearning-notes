@@ -49,6 +49,6 @@
 
 本节讲解 Deep Learning 的 Tips 要点。
 
-# [10. Convolutional Neural Network](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/10.%20Convolutional%20Neural%20Network.md)
+## [10. Convolutional Neural Network](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/10.%20Convolutional%20Neural%20Network.md)
 
 本节讲解卷积神经网络基础知识。
