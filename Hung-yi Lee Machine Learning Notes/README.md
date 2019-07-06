@@ -52,3 +52,9 @@
 ## [10. Convolutional Neural Network](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/10.%20Convolutional%20Neural%20Network.md)
 
 本节讲解卷积神经网络基础知识。
+
+## [11. Why Deep Learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/11.%20Why%20Deep%20Learning.md)
+
+本节讲解深层的神经网络原因。
+
+
