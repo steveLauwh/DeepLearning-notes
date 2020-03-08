@@ -57,4 +57,7 @@
 
 本节讲解深层的神经网络原因。
 
+## [12. Semi-supervised Learning](https://github.com/steveLauwh/DeepLearning-notes/blob/master/Hung-yi%20Lee%20Machine%20Learning%20Notes/12.%20Semi-supervised%20Learning.md)
+
+本节讲解半监督学习的原因和作用。
 
